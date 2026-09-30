@@ -1,7 +1,6 @@
 {
     "name": "FakeBadges",
-    "description": "Show client-side badges on your own profile — Staff, Partner, Bug Hunter, Active Developer, Nitro, Gifting tiers and more. Visible only to you.",
+    "description": "Client-side badges — Staff, Partner, Bug Hunter, Nitro, Gifting tiers and more.",
     "authors": [{ "name": "wilt", "id": "0" }],
-    "main": "index.js",
-    "hash": ""
+    "main": "index.js"
 }
