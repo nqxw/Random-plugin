@@ -1,0 +1,6 @@
+{
+    "name": "FakeBadges",
+    "description": "Client-side badges — Staff, Partner, Bug Hunter, Nitro, Gifting tiers and more.",
+    "authors": [{ "name": "wilt", "id": "0" }],
+    "main": "index.js"
+}
